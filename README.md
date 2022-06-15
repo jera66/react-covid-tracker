@@ -1,12 +1,22 @@
 # React COVID Tracker
 
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
+<a href="">Live Demo</a>
 
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
+## Technologies used
+"dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "chart.js": "^2.9.3",
+    "leaflet": "^1.6.0",
+    "numeral": "^2.0.6",
+    "react": "^16.13.1",
+    "react-chartjs-2": "^2.9.0",
+    "react-dom": "^16.13.1",
+    "react-leaflet": "^2.7.0",
+    "react-scripts": "3.4.1"
+  }
 
 ## Available Scripts
 
