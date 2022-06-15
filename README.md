@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-<a href="">Live Demo</a>
+<a href="https://animated-syrniki-8f1c47.netlify.app/">Live Demo</a>
 
 ## Technologies used
 "dependencies": {
